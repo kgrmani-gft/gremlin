@@ -1,0 +1,1 @@
+gcloud container clusters get-credentials bank-of-anthos --project=anthos-prac-15 --region=europe-west2
